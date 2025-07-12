@@ -36,13 +36,34 @@ I work confidently with both software and hardware stacks to develop real-world 
 </p>
 
 <p align="center">
-📌 Notable Projects:<br>
-• 🚨 Women's Safety Device — SOS via shake, calls police/family, sends live location<br>
-• ☁️ Weather App — Real-time weather using OpenWeatherMap API<br>
-• 💱 Currency Converter — INR to global currencies with a unique UI<br>
-• 🧠 Quiz App — Java basics with hints, answer box, categories, and animations<br>
-• 🧱 Brick Breaker — Java desktop game with score, collision logic<br>
-• 🔆 IoT Solar Tracker — MPPT-based, Arduino Nano, RTC + motor-controlled system
+📌 <strong>Notable Projects:</strong><br><br>
+
+• <strong>Women's Safety Device</strong>  
+  └─ SOS trigger via phone shake  
+  └─ Calls police station & family members  
+  └─ Sends alert + live location to all contacts
+
+• <strong>Weather App</strong>  
+  └─ Fetches real-time weather via OpenWeatherMap API  
+  └─ User-friendly UI with error handling
+
+• <strong>Currency Converter</strong>  
+  └─ Converts INR to various global currencies  
+  └─ Clean and unique UI design
+
+• <strong>Quiz App (Java Swing)</strong>  
+  └─ Focused on Java basics  
+  └─ Hints, answer box, categories, and cool animations  
+  └─ Random question generation
+
+• <strong>Brick Breaker Game</strong>  
+  └─ Developed in Java  
+  └─ Collision detection, scoring, game-over logic
+
+• <strong>IoT Solar Tracker</strong>  
+  └─ MPPT-based, Arduino Nano + RTC + LDR  
+  └─ Tracks sun using geared motor and driver  
+  └─ Displays data on LCD; battery harvesting logic
 </p>
 
 <p align="center">
