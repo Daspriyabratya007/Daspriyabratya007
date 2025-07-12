@@ -16,8 +16,8 @@ I work confidently with both software and hardware stacks to develop real-world 
 </p>
 
 <p align="center">
-🚀 Tools & Technologies I use:
-<br><br>
+🚀 <strong>Tools & Technologies I Use</strong><br><br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
@@ -35,42 +35,35 @@ I work confidently with both software and hardware stacks to develop real-world 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman"/>
 </p>
 
-<p align="center">
-📌 <strong>Notable Projects:</strong><br><br>
+<br>
 
-• <strong>Women's Safety Device</strong>  
-  └─ SOS trigger via phone shake  
-  └─ Calls police station & family members  
-  └─ Sends alert + live location to all contacts
-
-• <strong>Weather App</strong>  
-  └─ Fetches real-time weather via OpenWeatherMap API  
-  └─ User-friendly UI with error handling
-
-• <strong>Currency Converter</strong>  
-  └─ Converts INR to various global currencies  
-  └─ Clean and unique UI design
-
-• <strong>Quiz App (Java Swing)</strong>  
-  └─ Focused on Java basics  
-  └─ Hints, answer box, categories, and cool animations  
-  └─ Random question generation
-
-• <strong>Brick Breaker Game</strong>  
-  └─ Developed in Java  
-  └─ Collision detection, scoring, game-over logic
-
-• <strong>IoT Solar Tracker</strong>  
-  └─ MPPT-based, Arduino Nano + RTC + LDR  
-  └─ Tracks sun using geared motor and driver  
-  └─ Displays data on LCD; battery harvesting logic
-</p>
-
-<p align="center">
-📫 Let's connect on <a href="https://linkedin.com/in/priyabrata-das-3724a6258" target="_blank">LinkedIn</a>  
-or mail me at <strong>priyabratadas396@gmail.com</strong>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daspriyabratya007/daspriyabratya007/output/snake.svg" alt="Snake animation" />
-</p>
+### 📦 Notable Projects
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│ 🚨 Women's Safety Device                                                 │
+│ ├─ 📱 Trigger: Shake Detection                                           │
+│ ├─ 📞 Auto-Call: Nearest Police & Family                                 │
+│ └─ 📍 Live Location & Alert SMS                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│ ☁️ Weather App                                                           │
+│ ├─ 🌐 API: OpenWeatherMap Integration                                    │
+│ └─ 🖥️ UI: Scrollable Interface & Error Handling                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 💱 Currency Converter                                                    │
+│ ├─ 🇮🇳 ➡️ 🌍 Convert INR to Global Currencies                             │
+│ └─ 🧩 UI: Interactive, Clean, Modern Design                              │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 🧠 Java Quiz App                                                         │
+│ ├─ ❓ Dynamic Java Questions with Hints                                   │
+│ ├─ ✏️ Features: Answer Box + Category Filters                            │
+│ └─ 🎞️ UI: Animations with Swing GUI                                     │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 🧱 Brick Breaker Game                                                    │
+│ ├─ 🎮 Game Logic in Java                                                 │
+│ └─ 🧲 Mechanics: Paddle, Bricks, Collision, Score                        │
+├──────────────────────────────────────────────────────────────────────────┤
+│ 🔆 IoT Solar Tracker                                                     │
+│ ├─ 🔧 Hardware: Arduino Nano, RTC, Motor Driver                          │
+│ ├─ ⚡ Smart Logic: MPPT for Efficiency                                   │
+│ └─ 📊 LCD Display + Gear Wheel Movement                                 │
+└──────────────────────────────────────────────────────────────────────────┘
