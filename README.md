@@ -1,5 +1,5 @@
 <h1 align="center">🏴‍☠️ Hi, I'm Priyabrata Das 👋</h1>
-<h3 align="center">🚀 Frontend Developer | 🔌 IoT Enthusiast from India</h3>
+<h3 align="center">🚀 Frontend Developer | 🔌 IoT Enthusiast | ☕ Java Developer from India</h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFxbjY5dHNieDIxemVlamE5NHA5dzhjOXV2ZnEwOHNoNXh2N3NvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.webp" width="400" alt="One Piece GIF" />
