@@ -6,43 +6,47 @@
 </p>
 
 <p align="center">
-  <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Cool Dev GIF" />
+  <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Developer GIF" />
 </p>
 
 <p align="center">
-  🔧 I work with the following tools and technologies:
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman"/>
+🧠 I'm skilled in building responsive frontend applications and robust IoT-based systems.  
+I work confidently with both software and hardware stacks to develop real-world solutions.
 </p>
 
 <p align="center">
-  🧠 Projects I’ve built:
-  <br>
-  • Women’s Safety Device (SOS triggered by phone shake, calls police/family, shares live location)<br>
-  • Java-based Brick Breaker Game<br>
-  • Weather App using OpenWeatherMap API<br>
-  • Currency Converter for INR to other currencies<br>
-  • Java Quiz App (category-wise questions, hints, randomization)<br>
-  • IoT-based Solar Tracker with MPPT using Arduino Nano and RTC module<br>
+🚀 Tools & Technologies I use:
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman"/>
 </p>
 
 <p align="center">
-  📫 Let's connect: <a href="https://linkedin.com/in/priyabrata-das-3724a6258" target="_blank">LinkedIn</a> |
-  📧 Email: priyabratadas396@gmail.com
+📌 Notable Projects:<br>
+• 🚨 Women's Safety Device — SOS via shake, calls police/family, sends live location<br>
+• ☁️ Weather App — Real-time weather using OpenWeatherMap API<br>
+• 💱 Currency Converter — INR to global currencies with a unique UI<br>
+• 🧠 Quiz App — Java basics with hints, answer box, categories, and animations<br>
+• 🧱 Brick Breaker — Java desktop game with score, collision logic<br>
+• 🔆 IoT Solar Tracker — MPPT-based, Arduino Nano, RTC + motor-controlled system
+</p>
+
+<p align="center">
+📫 Let's connect on <a href="https://linkedin.com/in/priyabrata-das-3724a6258" target="_blank">LinkedIn</a>  
+or mail me at <strong>priyabratadas396@gmail.com</strong>
 </p>
 
 <p align="center">
