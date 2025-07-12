@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Frontend Developer | 🔌 IoT Enthusiast | ☕ Java Developer from India</h3>
 
 <p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFxbjY5dHNieDIxemVlamE5NHA5dzhjOXV2ZnEwOHNoNXh2N3NvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.webp" width="400" alt="One Piece GIF" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D000&width=435&lines=Turning+dreams+into+devices...;Building+tech+like+a+Straw+Hat+Pirate" alt="Typing SVG" />
 </p>
 
@@ -96,4 +100,3 @@
 ---
 
 > ⚓ “Keep coding until your dreams become reality – just like Luffy chasing the One Piece!”
-
