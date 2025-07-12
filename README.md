@@ -82,8 +82,8 @@
 
 ---
 
-### ⚔️ Fun Fact
->  build like a **Straw Hat Pirate**—free-spirited, bold, and always exploring new adventures in code!
+### ⚔️ Fun Fact  
+I build apps like a **Straw Hat Pirate** – free-spirited, bold, and always exploring new adventures in code!
 
 ---
 
