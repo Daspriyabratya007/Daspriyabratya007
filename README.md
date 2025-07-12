@@ -18,7 +18,6 @@
 ### 🏗️ About Me
 
 - 🧑‍💻 I love building **clean frontend interfaces** and **real-world IoT systems**.
-- 🌱 Currently learning **Spring Boot**, **MERN Stack**, and **Edge Computing**.
 - 💡 Exploring how **AI + IoT** can make life safer & smarter.
 - 🧭 My dream is to innovate like Franky and solve real-world problems through technology.
 
