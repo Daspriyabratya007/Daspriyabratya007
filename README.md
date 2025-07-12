@@ -1,84 +1,96 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxY3o2d3pydDNua2Z2dWNicmU3MWV3Y2VtYmhldzZ6OXFoZTUwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wj7lNjMNDxSmc/giphy.gif" alt="One Piece Hacker Style" />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Priyabrata Das</h1>
+<h3 align="center">🚀 A passionate Frontend Developer & IoT Innovator from India</h3>
 
-<div align="center">
-  <a href="https://linkedin.com/in/priyabrata-das-3724a6258" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-</div>
+---
 
-###
+### 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=daspriyabratya007.daspriyabratya007" />
-</div>
+- 🔭 I’m currently working on **AI-based Women’s Safety Devices**
+- 🌱 Currently learning **Spring Boot** and **Cloud Integration**
+- 🧠 Skilled in **Java**, **React**, **IoT systems**, and **UX-focused frontend**
+- 🎯 Love solving real-world problems with code + hardware
+- 📫 Reach me: **priyabratadas396@gmail.com**
 
-###
+---
 
-<h1 align="center">Hey there 👋, I'm Priyabrata Das</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
+### 🔗 Connect with Me
 
 <p align="left">
-I'm a passionate Frontend Developer and IoT innovator from India.<br><br>
-- 🔭 I’m working on IoT-based women’s safety solutions and desktop applications using Java<br>
-- 📚 Currently learning Spring Boot & Cloud integration<br>
-- ⚡ In my free time I build cool projects, play games, or explore GitHub
+  <a href="https://www.linkedin.com/in/priyabrata-das-3724a6258" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:priyabratadas396@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
-###
+---
 
-<h3 align="left">🛠️ Tools & Technologies I Use</h3>
+### 🚀 Projects Showcase
 
-###
+#### 🔐 Voice Sensing Self Operating Gadget
+> A women’s safety device that detects voice/shaking and automatically sends SOS to police & emergency contacts.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma logo" />
-</div>
+#### 🌞 Solar Energy Tracking & Harvesting Technology
+> Arduino-based single-axis solar tracker using MPPT and DC motor — designed for maximum solar efficiency.
 
-###
+#### 🧠 AI + Web Quiz App
+> Dynamic quiz platform with Java + Swing UI, random question generation, hint system, and code language categories.
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+#### 🧮 Java Scientific Calculator
+> Fully-featured calculator with custom GUI, key spacing, blue-white themes, and advanced math operations.
 
-###
+#### ☁️ Weather Forecast App
+> Java-based weather app using OpenWeatherMap API with live location, error handling, and scrollable output.
+
+#### 💱 Currency Converter
+> INR to global currency converter with stylish Swing GUI and compact, efficient codebase.
+
+#### 🧱 Brick Breaker Game (Java)
+> Classic game in Java using custom classes for paddle, ball, and collision logic.
+
+---
+
+### 💻 Tools & Technologies I Use
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=daspriyabratya007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" />
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daspriyabratya007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daspriyabratya007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daspriyabratya007&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🐍 GitHub Snake Contribution Animation
+
+```html
+<!-- Only works if deployed to GitHub Pages -->
+<img src="https://raw.githubusercontent.com/daspriyabratya007/daspriyabratya007/output/snake.svg" alt="Snake animation" />
